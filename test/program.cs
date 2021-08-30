@@ -1,5 +1,6 @@
-using DCL; /*note how you should not delete the file of micrsosoft because if 
+using DCL;/*note how you should not delete the file of micrsosoft because if 
 you delete it then DCL.dll will not work .NET*/
+using System;
 
 namespace test {
 	class program {

@@ -1,2 +1,3 @@
 # DCL Sources AnyCpu
-you should copy all .DLL files of DCL and microsoft .NET
+twitter:@bitcores1
+github: @bitcores1 and @dryginbase and @bitcoressources
